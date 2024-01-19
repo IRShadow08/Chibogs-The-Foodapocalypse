@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chibogers_TheFoodpocalyse_1.0.0", "Chibogers_TheFoodpocalyse_1.0.0\Chibogers_TheFoodpocalyse_1.0.0.csproj", "{711514A0-6CAE-454E-8201-7300278F49CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711514A0-6CAE-454E-8201-7300278F49CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711514A0-6CAE-454E-8201-7300278F49CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711514A0-6CAE-454E-8201-7300278F49CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711514A0-6CAE-454E-8201-7300278F49CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDD7575-DEF6-423B-9138-4B41B6EC3FF0}
+	EndGlobalSection
+EndGlobal
